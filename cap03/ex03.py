@@ -1,4 +1,4 @@
-#página 49
+#página 50
 import cv2
 
 captura = cv2.VideoCapture(0)
